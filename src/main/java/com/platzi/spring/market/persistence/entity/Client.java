@@ -1,7 +1,6 @@
 package com.platzi.spring.market.persistence.entity;
 
 import javax.persistence.*;
-import lombok.Data;
 
 import java.util.List;
 

@@ -1,6 +1,4 @@
-package com.platzi.spring.market.domain;
-
-import lombok.Data;
+package com.platzi.spring.market.domain.dto;
 
 public class CategoryDTO {
 

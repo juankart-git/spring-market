@@ -1,4 +1,4 @@
-package com.platzi.spring.market.domain.dto;
+package com.platzi.spring.market.domain.dto.security;
 
 public class AuthenticationResponse {
     private String jwt;

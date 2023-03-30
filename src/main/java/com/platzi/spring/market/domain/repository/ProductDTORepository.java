@@ -1,6 +1,6 @@
 package com.platzi.spring.market.domain.repository;
 
-import com.platzi.spring.market.domain.ProductDTO;
+import com.platzi.spring.market.domain.dto.ProductDTO;
 
 import java.util.List;
 import java.util.Optional;

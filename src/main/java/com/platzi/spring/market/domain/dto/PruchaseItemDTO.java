@@ -1,4 +1,4 @@
-package com.platzi.spring.market.domain;
+package com.platzi.spring.market.domain.dto;
 
 public class PruchaseItemDTO {
     private int productId;

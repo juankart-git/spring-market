@@ -1,6 +1,6 @@
 package com.platzi.spring.market.web.controller;
 
-import com.platzi.spring.market.domain.PurchaseDTO;
+import com.platzi.spring.market.domain.dto.PurchaseDTO;
 import com.platzi.spring.market.domain.service.PurchaseServices;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

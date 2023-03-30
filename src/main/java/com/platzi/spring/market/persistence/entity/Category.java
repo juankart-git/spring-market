@@ -1,6 +1,5 @@
 package com.platzi.spring.market.persistence.entity;
 
-
 import javax.persistence.*;
 import java.util.List;
 

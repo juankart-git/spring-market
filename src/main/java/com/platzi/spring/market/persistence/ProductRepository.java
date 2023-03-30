@@ -1,6 +1,6 @@
 package com.platzi.spring.market.persistence;
 
-import com.platzi.spring.market.domain.ProductDTO;
+import com.platzi.spring.market.domain.dto.ProductDTO;
 import com.platzi.spring.market.domain.repository.ProductDTORepository;
 import com.platzi.spring.market.persistence.crud.ProductCrudRepository;
 import com.platzi.spring.market.persistence.entity.Product;

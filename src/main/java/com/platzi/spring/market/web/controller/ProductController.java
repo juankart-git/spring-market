@@ -1,6 +1,6 @@
 package com.platzi.spring.market.web.controller;
 
-import com.platzi.spring.market.domain.ProductDTO;
+import com.platzi.spring.market.domain.dto.ProductDTO;
 import com.platzi.spring.market.domain.service.ProductServices;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;

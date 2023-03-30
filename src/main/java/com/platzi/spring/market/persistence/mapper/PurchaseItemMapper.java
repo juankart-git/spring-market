@@ -1,6 +1,6 @@
 package com.platzi.spring.market.persistence.mapper;
 
-import com.platzi.spring.market.domain.PruchaseItemDTO;
+import com.platzi.spring.market.domain.dto.PruchaseItemDTO;
 import com.platzi.spring.market.persistence.entity.PurchaseProduct;
 import org.mapstruct.InheritInverseConfiguration;
 import org.mapstruct.Mapper;
